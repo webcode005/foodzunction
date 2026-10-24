@@ -1,0 +1,6 @@
+{
+  "name": "FoodZunction - Fresh Mutton, Fish & Raw Chicken Store",
+  "description": "Premium online butcher shop for farm-fresh antibiotic-free chicken, tender goat mutton, and fresh catch fish with custom cuts and express cold-chain delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
